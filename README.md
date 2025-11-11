@@ -66,6 +66,16 @@ I initially maintained regular commits. However, the project got corrupted local
 **->** Learning Curve with Tech Stack & Development Workflow:
 The tech stack used in this project was mostly new to me, so understanding and applying it took time. Also, maintaining daily commits and structured development workflow was something I was learning during the process, which led to mistakes and delays—but I improved gradually as the project progressed.
 
+4.**LESSONS LEARNED AND POSSIBLE FUTURE ENHANCEMENT**
 
+**->** Learning New Tech & AI Integration:
+Even though the tech stack was new to me, I still explored and integrated an AI chatbot using Google AI Studio because I genuinely wanted to bring AI features into my project. This helped me learn faster, but it also made me realize that before using new tools or APIs, I should first understand their basics, pricing, and limitations.
 
+**->** Need for Proper Planning & Validation:
+I learned that planning the workflow and adding proper validations on both front-end and back-end is important. Even a small missing input check can cause errors. Good planning and structured development would have reduced rework and issues.
 
+**->** Importance of Backups & Version Control:
+Losing my local project files once made me understand how important regular commits and backups are. Using GitHub properly is not just a formality — it actually saves time and prevents major losses.
+
+**->** Future Improvements & Scalability:
+Going forward, I want to replace the chatbot with an open-source / no-limit model, add a question bank generator, provide student performance dashboards, improve the admin upload validation, and also explore building a mobile version. I also want to improve my knowledge of React, Node, MongoDB, and AI APIs to make the system more scalable and user-friendly
