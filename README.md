@@ -14,8 +14,11 @@ Core features: authentication + authorization (RBAC), course lifecycle, enrollme
 
 
 **Student → UI → API Gateway → Auth Service → Course Service → DB**
+
 **Teacher → UI → API Gateway → Progress Service → DB**
+
 **Admin   → UI → API Gateway → Admin Service → DB**
+
 
 **Architectural Diagram**
 (Overall workflow)
