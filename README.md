@@ -1,6 +1,6 @@
 # React + Vite
 
-1.**SYSTEM DESIGN SUMMARY:**
+1.**SYSTEM DESIGN SUMMARY :**
 
 A role‑based e‑learning platform with three personas:
 
@@ -25,7 +25,7 @@ Core features: authentication + authorization (RBAC), course lifecycle, enrollme
 <img width="1758" height="788" alt="Screenshot 2025-11-11 222829" src="https://github.com/user-attachments/assets/69a6936e-5e2c-4296-beca-6cb1b2c5ab63" />
 <img width="1638" height="749" alt="Screenshot 2025-11-11 223157" src="https://github.com/user-attachments/assets/bec8c46c-fb1a-40e3-a3f8-49e0208bde34" />
 
-2.**TECHNOLOGY STACK USED:**
+2.**TECHNOLOGY STACK USED :**
 
 **Frontend:**
 
@@ -53,7 +53,7 @@ React + Vite
 
 -MongoDB (Atlas)
 
-3.**KEY CHALLENGES FACED:**
+3.**KEY CHALLENGES FACED :**
 
 **->** AI Chatbot Integration Limitations:
 I added an AI chatbot in the system, but the API I used only allowed around 20 free requests. After that, it stopped working unless I paid for it. So basically, the chatbot worked only for limited usage during development.
@@ -70,7 +70,7 @@ I initially maintained regular commits. However, the project got corrupted local
 **->** Learning Curve with Tech Stack & Development Workflow:
 The tech stack used in this project was mostly new to me, so understanding and applying it took time. Also, maintaining daily commits and structured development workflow was something I was learning during the process, which led to mistakes and delays—but I improved gradually as the project progressed.
 
-4.**LESSONS LEARNED AND POSSIBLE FUTURE ENHANCEMENT:**
+4.**LESSONS LEARNED AND POSSIBLE FUTURE ENHANCEMENT :**
 
 **->** Learning New Tech & AI Integration:
 Even though the tech stack was new to me, I still explored and integrated an AI chatbot using Google AI Studio because I genuinely wanted to bring AI features into my project. This helped me learn faster, but it also made me realize that before using new tools or APIs, I should first understand their basics, pricing, and limitations.
