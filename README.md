@@ -79,3 +79,12 @@ Losing my local project files once made me understand how important regular comm
 
 **->** Future Improvements & Scalability:
 Going forward, I want to replace the chatbot with an open-source / no-limit model, add a question bank generator, provide student performance dashboards, improve the admin upload validation, and also explore building a mobile version. I also want to improve my knowledge of React, Node, MongoDB, and AI APIs to make the system more scalable and user-friendly
+
+
+
+
+
+
+
+
+
