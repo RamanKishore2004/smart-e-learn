@@ -1,0 +1,711 @@
+{
+  "Python": [
+    {
+      "level": "Beginner",
+      "question": "What is the output of print(2+3)?",
+      "options": ["23", "5", "2+3", "Error"],
+      "answer": "5"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which data type is used to store text?",
+      "options": ["int", "str", "list", "float"],
+      "answer": "str"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which of these is NOT a Python keyword?",
+      "options": ["def", "return", "class", "method"],
+      "answer": "method"
+    },
+    {
+      "level": "Beginner",
+      "question": "How do you insert comments in Python?",
+      "options": ["// comment", "# comment", "/* comment */", "<!-- comment -->"],
+      "answer": "# comment"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is the correct extension for Python files?",
+      "options": [".java", ".py", ".js", ".txt"],
+      "answer": ".py"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which function is used to get input from the user?",
+      "options": ["get()", "read()", "input()", "scan()"],
+      "answer": "input()"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which symbol is used for exponentiation in Python?",
+      "options": ["^", "**", "exp()", "//"],
+      "answer": "**"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which collection is ordered and changeable?",
+      "options": ["tuple", "list", "set", "dict"],
+      "answer": "list"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is the output of len([1,2,3])?",
+      "options": ["2", "3", "1", "Error"],
+      "answer": "3"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which operator is used for floor division?",
+      "options": ["/", "//", "%", "**"],
+      "answer": "//"
+    },
+
+    {
+      "level": "Intermediate",
+      "question": "Which keyword is used for function?",
+      "options": ["func", "def", "function", "lambda"],
+      "answer": "def"
+    },
+    {
+      "level": "Intermediate",
+      "question": "What is the output of: bool('False')?",
+      "options": ["False", "True", "Error", "None"],
+      "answer": "True"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which module in Python supports regular expressions?",
+      "options": ["re", "regex", "pyregex", "expr"],
+      "answer": "re"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which of these is a mutable data type?",
+      "options": ["tuple", "string", "list", "int"],
+      "answer": "list"
+    },
+    {
+      "level": "Intermediate",
+      "question": "What is a Python decorator?",
+      "options": [
+        "A function that modifies another function",
+        "A type of class",
+        "A built-in module",
+        "An operator"
+      ],
+      "answer": "A function that modifies another function"
+    },
+    {
+      "level": "Intermediate",
+      "question": "What is the output of {1,2,2,3}?",
+      "options": ["[1,2,2,3]", "{1,2,3}", "(1,2,2,3)", "Error"],
+      "answer": "{1,2,3}"
+    },
+    {
+      "level": "Intermediate",
+      "question": "What does the zip() function do?",
+      "options": [
+        "Compress files",
+        "Combine iterables element-wise",
+        "Sort data",
+        "Create dictionaries"
+      ],
+      "answer": "Combine iterables element-wise"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which of these is not a Python framework?",
+      "options": ["Django", "Flask", "Spring", "FastAPI"],
+      "answer": "Spring"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which keyword is used for exception handling?",
+      "options": ["catch", "try", "except", "error"],
+      "answer": "except"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which statement is true about Python’s GIL?",
+      "options": [
+        "Allows true parallelism in threads",
+        "Prevents multiple threads from executing Python bytecode simultaneously",
+        "Used for file handling",
+        "Improves multiprocessing"
+      ],
+      "answer": "Prevents multiple threads from executing Python bytecode simultaneously"
+    }
+  ],
+
+  "React": [
+    {
+      "level": "Beginner",
+      "question": "Which command creates a new React app?",
+      "options": ["npm start", "npx create-react-app myApp", "npm build", "react init"],
+      "answer": "npx create-react-app myApp"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which hook is used for managing state?",
+      "options": ["useState", "useEffect", "useRef", "useReducer"],
+      "answer": "useState"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is JSX?",
+      "options": [
+        "JavaScript XML syntax for React",
+        "A database language",
+        "A CSS framework",
+        "A backend API"
+      ],
+      "answer": "JavaScript XML syntax for React"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which symbol is used for fragments in React?",
+      "options": ["<Frag>", "<div>", "<>", "<container>"],
+      "answer": "<>"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which file typically contains the root React component?",
+      "options": ["index.html", "App.js", "main.css", "server.js"],
+      "answer": "App.js"
+    },
+    {
+      "level": "Beginner",
+      "question": "How do you start a React app locally?",
+      "options": ["npm start", "npm run build", "npx serve", "node index.js"],
+      "answer": "npm start"
+    },
+    {
+      "level": "Beginner",
+      "question": "What is the default port for React dev server?",
+      "options": ["3000", "8000", "5000", "8080"],
+      "answer": "3000"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which attribute is used to apply CSS classes?",
+      "options": ["class", "className", "cssClass", "styleClass"],
+      "answer": "className"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which of these is NOT a React hook?",
+      "options": ["useState", "useEffect", "useFetch", "useRef"],
+      "answer": "useFetch"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which company maintains React?",
+      "options": ["Google", "Microsoft", "Facebook (Meta)", "Amazon"],
+      "answer": "Facebook (Meta)"
+    },
+
+    {
+      "level": "Intermediate",
+      "question": "What does useEffect hook do?",
+      "options": [
+        "Manages component state",
+        "Handles side effects like API calls",
+        "Stores data in local storage",
+        "Renders components conditionally"
+      ],
+      "answer": "Handles side effects like API calls"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which hook is used for performance optimization?",
+      "options": ["useMemo", "useEffect", "useState", "useRef"],
+      "answer": "useMemo"
+    },
+    {
+      "level": "Intermediate",
+      "question": "What is React Virtual DOM?",
+      "options": [
+        "The real DOM tree",
+        "A lightweight copy of the real DOM used for efficient updates",
+        "A database",
+        "A CSS preprocessor"
+      ],
+      "answer": "A lightweight copy of the real DOM used for efficient updates"
+    },
+    {
+      "level": "Intermediate",
+      "question": "What is React Context used for?",
+      "options": [
+        "Routing",
+        "Prop drilling solution / global state management",
+        "Testing",
+        "Styling"
+      ],
+      "answer": "Prop drilling solution / global state management"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which library is commonly used for routing in React?",
+      "options": ["react-router-dom", "axios", "redux", "next"],
+      "answer": "react-router-dom"
+    },
+    {
+      "level": "Intermediate",
+      "question": "What is Redux used for?",
+      "options": [
+        "Database storage",
+        "State management",
+        "CSS styling",
+        "DOM manipulation"
+      ],
+      "answer": "State management"
+    },
+    {
+      "level": "Intermediate",
+      "question": "What does React.StrictMode do?",
+      "options": [
+        "Catches potential problems in an application",
+        "Adds CSS styles",
+        "Improves performance",
+        "Manages forms"
+      ],
+      "answer": "Catches potential problems in an application"
+    },
+    {
+      "level": "Intermediate",
+      "question": "What is code splitting in React?",
+      "options": [
+        "Separating JavaScript code into smaller bundles",
+        "Splitting CSS files",
+        "Dividing components by function",
+        "Using fragments"
+      ],
+      "answer": "Separating JavaScript code into smaller bundles"
+    },
+    {
+      "level": "Intermediate",
+      "question": "What does useCallback hook do?",
+      "options": [
+        "Memoizes functions to avoid unnecessary re-renders",
+        "Fetches API data",
+        "Creates refs",
+        "Runs only once"
+      ],
+      "answer": "Memoizes functions to avoid unnecessary re-renders"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which lifecycle method does useEffect mimic?",
+      "options": [
+        "componentDidMount, componentDidUpdate, componentWillUnmount",
+        "shouldComponentUpdate",
+        "getDerivedStateFromProps",
+        "render"
+      ],
+      "answer": "componentDidMount, componentDidUpdate, componentWillUnmount"
+    }
+  ],
+  "Node.js": [
+    {
+      "level": "Beginner",
+      "question": "Which command initializes a new Node.js project?",
+      "options": ["node init", "npm init", "npm start", "node start"],
+      "answer": "npm init"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which module is used to create a server in Node.js?",
+      "options": ["fs", "http", "url", "path"],
+      "answer": "http"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which command runs a Node.js file?",
+      "options": ["node filename.js", "npm filename.js", "run filename.js", "start filename.js"],
+      "answer": "node filename.js"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which module is used for file system operations?",
+      "options": ["http", "url", "fs", "events"],
+      "answer": "fs"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which global object represents the current module in Node.js?",
+      "options": ["exports", "module.exports", "require", "__dirname"],
+      "answer": "module.exports"
+    },
+    {
+      "level": "Beginner",
+      "question": "What does npm stand for?",
+      "options": ["Node Package Manager", "Node Project Manager", "Network Project Manager", "None"],
+      "answer": "Node Package Manager"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which function is used to include modules in Node.js?",
+      "options": ["import()", "require()", "include()", "module()"],
+      "answer": "require()"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which global object is used to print output to the console?",
+      "options": ["print", "console.log", "echo", "log()"],
+      "answer": "console.log"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which built-in module handles events?",
+      "options": ["fs", "http", "events", "util"],
+      "answer": "events"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which variable stores the absolute path of the current file?",
+      "options": ["__dirname", "__filename", "module", "process"],
+      "answer": "__filename"
+    },
+
+    {
+      "level": "Intermediate",
+      "question": "What does event-driven programming mean in Node.js?",
+      "options": [
+        "Functions are executed sequentially",
+        "Events trigger callbacks asynchronously",
+        "Only synchronous execution",
+        "Node.js uses multiple threads"
+      ],
+      "answer": "Events trigger callbacks asynchronously"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which method is used to create a readable stream?",
+      "options": ["fs.createReadFile()", "fs.createReadStream()", "fs.read()", "fs.open()"],
+      "answer": "fs.createReadStream()"
+    },
+    {
+      "level": "Intermediate",
+      "question": "What is middleware in Express.js?",
+      "options": [
+        "Functions executed during request/response cycle",
+        "Database queries",
+        "Frontend handlers",
+        "File upload modules"
+      ],
+      "answer": "Functions executed during request/response cycle"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which object is used to handle asynchronous operations?",
+      "options": ["Promise", "Callback", "EventEmitter", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which module is used for encryption in Node.js?",
+      "options": ["crypto", "bcrypt", "hash", "secure"],
+      "answer": "crypto"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which method closes a server in Node.js?",
+      "options": ["server.close()", "http.close()", "stop()", "end()"],
+      "answer": "server.close()"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which design pattern does Node.js use heavily?",
+      "options": ["Observer", "Factory", "Singleton", "Decorator"],
+      "answer": "Observer"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which module is used for building REST APIs in Node.js?",
+      "options": ["http", "express", "axios", "path"],
+      "answer": "express"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which statement about Node.js is correct?",
+      "options": [
+        "Node.js is multi-threaded",
+        "Node.js is single-threaded but event-driven",
+        "Node.js only runs on Linux",
+        "Node.js cannot handle asynchronous operations"
+      ],
+      "answer": "Node.js is single-threaded but event-driven"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which database is commonly used with Node.js?",
+      "options": ["MySQL", "MongoDB", "PostgreSQL", "All of the above"],
+      "answer": "All of the above"
+    }
+  ],
+
+  "Data Science": [
+    {
+      "level": "Beginner",
+      "question": "Which library is commonly used for data analysis in Python?",
+      "options": ["numpy", "pandas", "matplotlib", "scikit-learn"],
+      "answer": "pandas"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which library is best for numerical computations?",
+      "options": ["numpy", "seaborn", "pandas", "flask"],
+      "answer": "numpy"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which visualization library is built on top of matplotlib?",
+      "options": ["plotly", "seaborn", "ggplot", "d3.js"],
+      "answer": "seaborn"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which data type does pandas DataFrame resemble?",
+      "options": ["2D table", "1D array", "JSON", "CSV"],
+      "answer": "2D table"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which function loads a CSV file in pandas?",
+      "options": ["read_csv()", "load_csv()", "csv_open()", "open_csv()"],
+      "answer": "read_csv()"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which ML algorithm is used for classification?",
+      "options": ["Linear Regression", "Decision Tree", "KMeans", "PCA"],
+      "answer": "Decision Tree"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which metric measures classification accuracy?",
+      "options": ["MSE", "Accuracy", "RMSE", "R-squared"],
+      "answer": "Accuracy"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which Python library is widely used for machine learning?",
+      "options": ["scikit-learn", "flask", "django", "numpy"],
+      "answer": "scikit-learn"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which library is best for deep learning?",
+      "options": ["scikit-learn", "TensorFlow", "pandas", "numpy"],
+      "answer": "TensorFlow"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which chart is best for categorical comparisons?",
+      "options": ["Line Chart", "Pie Chart", "Bar Chart", "Scatter Plot"],
+      "answer": "Bar Chart"
+    },
+
+    {
+      "level": "Intermediate",
+      "question": "What does PCA stand for?",
+      "options": ["Principal Component Analysis", "Primary Component Algorithm", "Projection Classification Approach", "Parallel Component Array"],
+      "answer": "Principal Component Analysis"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which distance metric is commonly used in KNN?",
+      "options": ["Euclidean", "Manhattan", "Cosine", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "level": "Intermediate",
+      "question": "What is overfitting?",
+      "options": [
+        "Model performs well on training but poorly on test data",
+        "Model performs well on both training and test data",
+        "Model performs poorly everywhere",
+        "Model has high bias"
+      ],
+      "answer": "Model performs well on training but poorly on test data"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which evaluation metric is best for imbalanced datasets?",
+      "options": ["Accuracy", "Precision/Recall", "MSE", "R-squared"],
+      "answer": "Precision/Recall"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which ML algorithm is used for clustering?",
+      "options": ["KMeans", "Linear Regression", "Decision Tree", "Logistic Regression"],
+      "answer": "KMeans"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which regularization technique adds L1 penalty?",
+      "options": ["Lasso", "Ridge", "ElasticNet", "Dropout"],
+      "answer": "Lasso"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which library is used for natural language processing?",
+      "options": ["NLTK", "OpenCV", "TensorFlow", "Flask"],
+      "answer": "NLTK"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which algorithm is best for dimensionality reduction?",
+      "options": ["PCA", "Decision Tree", "Naive Bayes", "KNN"],
+      "answer": "PCA"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which library is used for computer vision tasks?",
+      "options": ["OpenCV", "Seaborn", "Keras", "Pandas"],
+      "answer": "OpenCV"
+    },
+    {
+      "level": "Intermediate",
+      "question": "What is the bias-variance tradeoff?",
+      "options": [
+        "Balance between model simplicity and accuracy",
+        "Balance between accuracy and time",
+        "Balance between training and testing data size",
+        "Balance between parameters and features"
+      ],
+      "answer": "Balance between model simplicity and accuracy"
+    }
+  ],
+
+  "Business Analyst": [
+    {
+      "level": "Beginner",
+      "question": "What is the main role of a Business Analyst?",
+      "options": ["Coding software", "Identifying business needs and solutions", "Managing servers", "Testing applications"],
+      "answer": "Identifying business needs and solutions"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which document captures project requirements?",
+      "options": ["SRS", "ERD", "Gantt Chart", "Wireframe"],
+      "answer": "SRS"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which tool is commonly used for process flow diagrams?",
+      "options": ["Excel", "MS Visio", "Notepad", "Slack"],
+      "answer": "MS Visio"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which technique is used to gather requirements?",
+      "options": ["Interviews", "Surveys", "Workshops", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "level": "Beginner",
+      "question": "What does SWOT stand for?",
+      "options": ["Strengths, Weaknesses, Opportunities, Threats", "Systems, Workflows, Operations, Teams", "Software, Web, Operations, Testing", "None"],
+      "answer": "Strengths, Weaknesses, Opportunities, Threats"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which diagram shows system interactions?",
+      "options": ["Use Case Diagram", "ER Diagram", "Class Diagram", "Pie Chart"],
+      "answer": "Use Case Diagram"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which methodology is widely used in Agile projects?",
+      "options": ["Scrum", "Waterfall", "Six Sigma", "Lean"],
+      "answer": "Scrum"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which tool is used for backlog management?",
+      "options": ["Excel", "JIRA", "Slack", "Visio"],
+      "answer": "JIRA"
+    },
+    {
+      "level": "Beginner",
+      "question": "Which chart shows project timelines?",
+      "options": ["Bar Chart", "Gantt Chart", "Pie Chart", "Scatter Plot"],
+      "answer": "Gantt Chart"
+    },
+    {
+      "level": "Beginner",
+      "question": "What does KPI stand for?",
+      "options": ["Key Performance Indicator", "Knowledge Process Integration", "Key Project Item", "None"],
+      "answer": "Key Performance Indicator"
+    },
+
+    {
+      "level": "Intermediate",
+      "question": "What is a Gap Analysis?",
+      "options": [
+        "Comparison of current vs desired state",
+        "Comparison of two projects",
+        "Finding project delays",
+        "Checking financial reports"
+      ],
+      "answer": "Comparison of current vs desired state"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which elicitation technique uses group discussions?",
+      "options": ["Interviews", "Workshops", "Surveys", "Observation"],
+      "answer": "Workshops"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which model represents data flow in a system?",
+      "options": ["DFD", "UML", "ERD", "Wireframe"],
+      "answer": "DFD"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which analysis technique prioritizes requirements?",
+      "options": ["MoSCoW", "SWOT", "KPI", "DFD"],
+      "answer": "MoSCoW"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which Agile artifact contains user stories?",
+      "options": ["Sprint Backlog", "Product Backlog", "Burndown Chart", "Wireframe"],
+      "answer": "Product Backlog"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which technique is used to analyze root causes?",
+      "options": ["5 Whys", "KPI", "MoSCoW", "Scrum"],
+      "answer": "5 Whys"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which diagram shows sequence of activities?",
+      "options": ["Activity Diagram", "Class Diagram", "Entity Diagram", "Gantt Chart"],
+      "answer": "Activity Diagram"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which chart shows project progress in Agile?",
+      "options": ["Pie Chart", "Burndown Chart", "ERD", "Bar Chart"],
+      "answer": "Burndown Chart"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which document outlines project scope?",
+      "options": ["Scope Document", "Use Case", "Wireframe", "Backlog"],
+      "answer": "Scope Document"
+    },
+    {
+      "level": "Intermediate",
+      "question": "Which analysis is used to evaluate stakeholders?",
+      "options": ["Stakeholder Analysis", "Gap Analysis", "SWOT", "MoSCoW"],
+      "answer": "Stakeholder Analysis"
+    }
+  ]
+
+}
