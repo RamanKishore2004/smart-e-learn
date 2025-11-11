@@ -12,9 +12,10 @@ Student: enrolls, studies content, takes tests/assessments, views progress.
 
 Core features: authentication + authorization (RBAC), course lifecycle, enrollment, content delivery, assessments/submissions, progress tracking, notifications.
 
-Student → UI → API Gateway → Auth Service → Course Service → DB
-Teacher → UI → API Gateway → Progress Service → DB
-Admin   → UI → API Gateway → Admin Service → DB
+
+**Student → UI → API Gateway → Auth Service → Course Service → DB**
+**Teacher → UI → API Gateway → Progress Service → DB**
+**Admin   → UI → API Gateway → Admin Service → DB**
 
 **Architectural Diagram**
 (Overall workflow)
