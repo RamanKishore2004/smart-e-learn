@@ -18,7 +18,6 @@ Admin   → UI → API Gateway → Admin Service → DB
 
 **Architectural Diagram**
 (Overall workflow)
-1) <img width="1758" height="788" alt="Screenshot 2025-11-11 222829" src="https://github.com/user-attachments/assets/69a6936e-5e2c-4296-beca-6cb1b2c5ab63" />
-(frontend + backend )
-2) <img width="1638" height="749" alt="Screenshot 2025-11-11 223157" src="https://github.com/user-attachments/assets/bec8c46c-fb1a-40e3-a3f8-49e0208bde34" />
+<img width="1758" height="788" alt="Screenshot 2025-11-11 222829" src="https://github.com/user-attachments/assets/69a6936e-5e2c-4296-beca-6cb1b2c5ab63" />
+<img width="1638" height="749" alt="Screenshot 2025-11-11 223157" src="https://github.com/user-attachments/assets/bec8c46c-fb1a-40e3-a3f8-49e0208bde34" />
 
