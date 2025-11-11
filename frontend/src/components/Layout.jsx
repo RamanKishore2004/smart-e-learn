@@ -53,7 +53,7 @@ const handleLogout = () => {
               >
                 <BookOpen size={18} />
               </div>
-              <span className="fw-bold">SmartLearn</span>
+              <span className="fw-bold">Smart-e-Learn</span>
             </Link>
 
             {/* Mobile Controls */}

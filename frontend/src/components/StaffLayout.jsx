@@ -35,7 +35,7 @@ export default function StaffLayout({ children }) {
               >
                 <BookOpen size={18} />
               </div>
-              <span className="fw-bold">SmartLearn Staff</span>
+              <span className="fw-bold">Smart-e-Learn Staff</span>
             </Link>
 
             {/* Mobile Controls */}
