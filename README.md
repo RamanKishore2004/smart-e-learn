@@ -1,12 +1,21 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1.**System design summary**
 
-Currently, two official plugins are available:
+A role‑based e‑learning platform with three personas:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Admin: creates/manages courses, users, and global settings.
 
-## Expanding the ESLint configuration
+Teacher: publishes materials, creates assessments, tracks student progress.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Student: enrolls, studies content, takes tests/assessments, views progress.
+
+Core features: authentication + authorization (RBAC), course lifecycle, enrollment, content delivery, assessments/submissions, progress tracking, notifications.
+
+Tech Stack Used:
+
+Frontend: React + Vite, React Router, Axios (API client), State (Redux Toolkit ), React Hook Form, Tailwind CSS.
+
+Backend: Node.js + Express, JWT (access/refresh), Role-based middleware, Validation (Joi), File upload (Cloudinary SDK),Caching (Redis)
+
+Databse: Mongo db(atlas)
