@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite (MERN)
 
 1.**SYSTEM DESIGN SUMMARY :**
 
